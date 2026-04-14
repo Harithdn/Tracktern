@@ -1,4 +1,4 @@
-# 🎯 Internship Tracker — Android App
+# 🎯 Tracktern — Android App
 
 A production-quality Android application for tracking internship and job applications, built with modern Android development practices.
 
