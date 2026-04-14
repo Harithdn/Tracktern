@@ -10,9 +10,9 @@ A production-quality Android application for tracking internship and job applica
 |-----------|-------------|--------------|
 | Stats overview, upcoming interviews, recent apps | Full list with filter | Drag-and-drop status columns |
 
-| Add/Edit | Analytics | Resume Match |
-|----------|-----------|--------------|
-| Full form with reminders | Donut chart, funnel, conversions | NLP keyword scoring |
+| Add/Edit | Analytics |
+|----------|-----------|
+| Full form with reminders | Donut chart, funnel, conversions |
 
 ---
 
