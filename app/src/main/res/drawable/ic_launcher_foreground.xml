@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Vertical Briefcase Body (Black) -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M34,38C34,35.8 35.8,34 38,34H46V30C46,27.8 47.8,26 50,26H58C60.2,26 62,27.8 62,30V34H70C72.2,34 74,35.8 74,38V74C74,76.2 72.2,78 70,78H38C35.8,78 34,76.2 34,74V38ZM48,30V34H60V30H48ZM34,48H74V42H34V48Z" />
+
+    <!-- Green Check Mark Overlay -->
+    <path
+        android:fillColor="#3DDC84"
+        android:pathData="M52,70l-8,-8l2.8,-2.8l5.2,5.2l11.2,-11.2l2.8,2.8z" />
+</vector>
